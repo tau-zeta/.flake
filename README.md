@@ -16,6 +16,6 @@ chmod +x ./install.sh
 ### To-Do List
 
 - [ ] Setup Home-Manager (Maybe)
-- [ ] Fix install script (absolute path to dynamic path)
+- [x] Fix install script
 - [ ] Setup `xdg.mime`
 - [ ] `data-science.nix` system module
