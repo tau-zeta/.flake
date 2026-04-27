@@ -3,7 +3,7 @@
 
 git clone https://github.com/tau-zeta/.flake.git
 git clone https://github.com/unlucky-shen/hypr.git
-git clone https://github.com/unlucky-shen/kitty.git
+git clone https://github.com/tau-zeta/kitty.git
 
 sudo cp /etc/nixos/hardware-configuration.nix /home/tau/.FlakeBtw/system/hardware-configuration.nix
 
