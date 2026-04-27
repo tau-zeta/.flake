@@ -7,7 +7,7 @@ git clone https://github.com/tau-zeta/kitty.git
 
 sudo cp /etc/nixos/hardware-configuration.nix /home/tau/.flake/system/hardware-configuration.nix
 
-cd .FlakeBtw/
+cd .flake/
 
 git add .
 
