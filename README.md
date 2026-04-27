@@ -4,7 +4,7 @@
 
 ---
 
-Minimal NixOS flake. Still a work in progress...
+Minimal NixOS flake. Some things are still not configured in a pure "Nix" way. Still a work in progress...
 
 ### Install
 ```
