@@ -15,7 +15,7 @@ chmod +x ./install.sh
 
 ### Flatpaks
 ```
-flatpak install flathub app.zen_browser.zen com.discordapp.Discord org.gimp.GIMP
+flatpak install flathub app.zen_browser.zen com.discordapp.Discord org.gimp.GIMP com.github.jeromerobert.pdfarranger
 ```
 
 ### To-Do List
