@@ -13,6 +13,11 @@ chmod +x ./install.sh
 ./install.sh
 ```
 
+### Flatpaks
+```
+flatpak install flathub app.zen_browser.zen com.discordapp.Discord org.gimp.GIMP
+```
+
 ### To-Do List
 
 - [ ] Setup Home-Manager (Maybe)
